@@ -132,7 +132,7 @@
 			<dependency>
 				<groupId>com.jolbox</groupId>
 				<artifactId>bonecp-spring</artifactId>
-				<version>0.8.0-rc2-SNAPSHOT</version>
+				<version>0.7.1.RELEASE</version>
 				<scope>runtime</scope>
 			</dependency>
 
